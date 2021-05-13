@@ -6,6 +6,6 @@
 
 <h1>
  <p align ="center">Trabalho em grupo</p>
- <a href="https://pt-br.reactjs.org/">🔗 React</a>
- <a href="https://pt-br.reactjs.org/">🔗 React</a>
+ <br>
+ <a href="https://github.com/jvpererinha">🔗João Victor</a>
 </h1>
