@@ -10,7 +10,8 @@
  </h1>
  <h2>
  <a href="https://github.com/jvpererinha">   • João Victor</a>
- <a href=" https://github.com/kodagmaster">  • Daniel Silva</a>
- <a href=" https://github.com/clesiocrc">    • Clesio Rodrigues</a>
- <a href=" https://github.com/kodagmaster">  • Daniel Silva</a>
+
+ <br><a href=" https://github.com/kodagmaster">  • Daniel Silva</a>
+ <br><a href=" https://github.com/clesiocrc">    • Clesio Rodrigues</a>
+ <br><a href=" https://github.com/kodagmaster">  • Daniel Silva</a>
 </h2>
