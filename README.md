@@ -3,7 +3,6 @@
 <img src="en.jpg"> 
 <br>
 <br>
-<br>
 
 <h1>
  <p align ="center">Trabalho em grupo</p>
