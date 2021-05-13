@@ -14,7 +14,7 @@
  
  <p><a href="https://github.com/jvpererinha">• João Victor</a> </p>
 
- <p><a href="https://github.com/kodagmaster">• Daniel Silva</a> </p>
+ <p><a href="https://github.com/kodagmaster">• Carlos Daniel da Silva Pessoa</a> </p>
  
  <p><a href="https://github.com/clesiocrc">• Clesio Rodrigues</a></p>
 
