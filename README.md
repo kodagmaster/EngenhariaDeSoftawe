@@ -9,9 +9,10 @@
  <br>
  </h1>
  <h2>
- <a href="https://github.com/jvpererinha">   • João Victor</a>
+ <p><a href="https://github.com/jvpererinha">• João Victor</a> </p>
 
- <br><a href=" https://github.com/kodagmaster">  • Daniel Silva</a>
- <br><a href=" https://github.com/clesiocrc">    • Clesio Rodrigues</a>
- <br><a href=" https://github.com/kodagmaster">  • Daniel Silva</a>
+ <p><a href=" https://github.com/kodagmaster">• Daniel Silva</a> </p>
+ 
+ <p><a href=" https://github.com/clesiocrc">• Clesio Rodrigues</a></p>
+
 </h2>
