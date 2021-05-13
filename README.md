@@ -9,7 +9,5 @@
  <br>
  </h1>
  <h2>
- <a href="https://github.com/jvpererinha">  João Victor</a>
+ <a href="https://github.com/jvpererinha">  • João Victor</a>
 </h2>
-
-<a href="#objetivo">Objetivo</a> •
