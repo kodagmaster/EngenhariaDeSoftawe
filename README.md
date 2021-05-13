@@ -7,5 +7,7 @@
 <h1>
  <p align ="center">Trabalho em grupo</p>
  <br>
- <a href="https://github.com/jvpererinha"> ° João Victor</a>
-</h1>
+ </h1>
+ <h2>
+ <a href="https://github.com/jvpererinha">  João Victor</a>
+</h2>
