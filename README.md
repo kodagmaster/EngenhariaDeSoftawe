@@ -1,6 +1,6 @@
 # Engenharia de Software
 <br>
-<img src="en.jpg" width ="100">  
+<img src="en.jpg" width ="120">  
 <br>
 <br>
 
